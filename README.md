@@ -3,7 +3,7 @@
 Jornada presencial · Carreras de Tecnologías de la Información y de Redes y Analítica de Datos · UTPL
 Cuenca, 14 de noviembre de 2026
 
-[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/<usuario-docente>/guia-practica)
+[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jorgaf/guia-practica)
 
 ## Contenido
 
