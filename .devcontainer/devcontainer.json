@@ -1,0 +1,26 @@
+{
+  "name": "Guía práctica FP · Java 27",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "27",
+      "jdkDistro": "tem",
+      "installMaven": "true"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "hostRequirements": {
+    "cpus": 2
+  },
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["guia/02-entorno.md"]
+    },
+    "vscode": {
+      "extensions": ["vscjava.vscode-java-pack"],
+      "settings": {
+        "files.encoding": "utf8"
+      }
+    }
+  }
+}
