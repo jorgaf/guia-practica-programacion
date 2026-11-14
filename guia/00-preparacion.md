@@ -50,6 +50,8 @@ Primero identifica tu sistema:
 | macOS | En la Terminal ejecuta `xcode-select --install`, o `git --version` y acepta la instalación que te ofrece. |
 | Linux | `sudo apt install git` (Debian/Ubuntu) o el gestor de tu distribución. |
 
+**Solo macOS y Linux:** instala también **GitHub CLI** (`gh`), que usaremos para conectar tu equipo con GitHub sin tokens. En Mac, descarga el instalador `.pkg` de <https://cli.github.com> (o `brew install gh` si usas Homebrew); en Linux sigue <https://github.com/cli/cli#installation>. Verifica con `gh --version`.
+
 ## Paso 5 · Verifica
 
 Abre una terminal **nueva** (en Windows: *Terminal* o *PowerShell*; en Mac: *Terminal*) y ejecuta:

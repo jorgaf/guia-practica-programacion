@@ -57,7 +57,7 @@ Para aprender usamos la versión más reciente; en un proyecto profesional se su
 ### Paso a paso
 
 1. **Cuenta.** Si aún no la tienes, créala en <https://github.com/signup> (ver [lista de preparación](00-preparacion.md#paso-1--crea-tu-cuenta-de-github)) e inicia sesión.
-2. **Abre el repositorio de la jornada:** `https://github.com/<usuario-docente>/guia-practica` (el docente compartirá el enlace exacto).
+2. **Abre el repositorio de la jornada:** `https://github.com/jorgaf/guia-practica`.
 3. Crea **tu propia copia**: pulsa **Use this template → Create a new repository**.
    - **Owner:** tu usuario. **Repository name:** `guia-practica`.
    - **Visibility:** *Public* (formará parte de tu portafolio).
